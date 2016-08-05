@@ -1,0 +1,22 @@
+Haskell
+
+Caracteristicas:
+
+tipagem fortei/estatica;
+type safety;
+não há subtipos;
+lazy != estrita;
+pura;
+imutável;
+avoid side effect;
+exterior é impuro => Monads => Tipo sandbox => Teste pra esse troço;
+declarativa != imperativa;
+
+Fora a o que esta na ementa usaremos tb:
+
+Postgres
+Lens
+
+
+
+end of file
