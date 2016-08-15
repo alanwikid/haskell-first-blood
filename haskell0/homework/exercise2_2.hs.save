@@ -1,0 +1,4 @@
+module Exercicio02 where
+
+strangeSeq :: Int -> [Char]
+strangeSeq n = ["A%cCD" ['a' .. 'z']]
